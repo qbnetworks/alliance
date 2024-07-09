@@ -8,13 +8,17 @@ Alliance for Free Software and Free Society. A network interface for all project
 
 Copyright (C) 2024 QB Networks
 
-Copyright (C) 2024 Masscollabs Services
+Copyright (C) 2017-2024 Masscollabs Services
 
-Copyright (C) 2024 procyberian and contributors
+Copyright (C) 2017-2024 Procyberian and contributors
 
-Copyright (C) 2024 amassivus and contributors
+Copyright (C) 2017-2024 Mass Collaboration Labs and contributors
 
-Copyright (C) 2024 Mass Collaboration Labs and contributors
+Copyright (C) 2017-2024 amassivus and contributors
+
+Copyright (C) 2024 godigitalist and contributors
+
+Copyright (C) 2024 bilsege and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
